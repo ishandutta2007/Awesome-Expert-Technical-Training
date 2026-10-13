@@ -56,7 +56,7 @@ Below is a curated comparison of leading SaaS technical training platforms, sort
 
 ## 💻 Open-Source Technical Training & LMS Projects
 
-Explore top-tier production-grade open-source learning management systems, interactive coding curriculums, cybersecurity testbeds, and technical training platforms. **Sorted by GitHub Stars (Descending)**. ⭐
+Explore top-tier production-grade open-source learning management systems, interactive coding curriculums, cybersecurity testbeds, and technical training platforms. **Sorted by GitHub_Stars (Descending)**. ⭐
 
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** [![freeCodeCamp Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social&color=white)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers)  
   🌐 **The World's Most Popular Open-Source Technical Curriculum & Certification Platform**. Complete hands-on coding curriculum covering Full Stack Web Development, Python, Machine Learning, Data Analysis, and Cybersecurity with free verified certifications. *450,000+ stars on GitHub.* 🏆 (BSD-3-Clause)
